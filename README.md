@@ -1,4 +1,3 @@
-
 LLM-based human-robot interaction system for motion control of autonomous underwater vehicles（AUV） In ROS2.
 ![](image/images.jpeg)
 ![](image/images.png)

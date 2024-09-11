@@ -42,7 +42,7 @@ or it means expressing instructions in a more human-like manner.
 ```python
 ros2 run bluerov_llm chat "I want the system to follow a path with a surge speed of 1.0 m/s, a sway speed of 0.5 m/s, a Y-axis maximum of 10 meters, and a sinusoidal period of 15 seconds."
 ```
-# Low Level Controller (NMPC)
+# NMPC Controller (Low Level )
 The simulation model we developed is based on bluerov2, utilizing the NMPC algorithm as the underlying controller.
 The execution of this NMPC controller relies on the simulation platform on which we designed Bluerov2.
 ## Prerequisites

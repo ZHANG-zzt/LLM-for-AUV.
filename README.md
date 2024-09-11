@@ -57,6 +57,13 @@ The execution of this NMPC controller relies on the simulation platform on which
 ## How to use
 
 * Follow the steps in [Bluerov2_sim] to start the Gazebo simulation platform.
+* Switch paths ```cd Bleurov_nmpc ```
+* Direct execution of the current file  ```python main.py```
+## Debugging
+* If there is a problem with acados path setting in the run, you can type.
+```python
+export ACADOS_SOURCE_DIR="your_path/acados"
+```
 
 
 

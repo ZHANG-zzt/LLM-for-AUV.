@@ -10,7 +10,7 @@ Our work is to establish a ROS2-based AUV interactive system. By leveraging LLM'
 * Ubuntu 22.04
 * Install [Ignition Gazebo](https://gazebosim.org/docs/garden/ros_installation/)
 
-# LLM in ROS2 （High Level Control）
+# LLM in ROS2 （High Level）
 The combination of LLM and ROS2 aims to utilize the LLM's ability to understand natural language commands in conjunction with ROS2's robotics framework to provide an efficient and flexible control system.
 ## How to use
 * colcon packages

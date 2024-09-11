@@ -56,7 +56,7 @@ The execution of this NMPC controller relies on the simulation platform on which
 * Install [Bluerov2_sim]
 ## How to use
 
-* Follow the steps in [Bluerov2_sim] to start the gazebo simulation platform.
+* Follow the steps in [Bluerov2_sim] to start the Gazebo simulation platform.
 
 
 

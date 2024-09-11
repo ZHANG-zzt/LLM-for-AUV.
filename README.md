@@ -51,6 +51,11 @@ The execution of this NMPC controller relies on the simulation platform on which
 ## How to use
 
 * Follow the steps in [Bluerov2_sim] to start the Gazebo simulation platform.
+* The algorithms in this section can be tested by creating a conda environment.
+```python
+conda create --name bluerov2_nmpc
+conda activate bluerov2_nmpc
+```
 * Switch paths ```cd Bleurov_nmpc ```
 * Direct execution of the current file  ```python main.py```
 ## Debugging

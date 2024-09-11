@@ -27,3 +27,10 @@ source /opt/ros/humble/setup.bash
 ros2 run bluerov_llm chat "Change the MPC weight matrix to [20,20,20,0.1,0.1,0.1]."
 ros2 run bluerov_llm chat "Based on the previous instruction, Increase the NMPC weight matrix, first state to 30."
 ```
+* case2: Trajectory Generation Instructions
+```python
+ros2 run bluerov_llm chat "Set the trajectory with the speeds along the X and Z axes set to 0.7 m/s and 0.1 m/s respectively, while the Y-coordinate follows a sine wave with a period of 20 seconds and an amplitude of 5 meters."
+```
+or it means expressing instructions in a more human-like manner.
+ros2 run bluerov_llm chat "I want the system to follow a path with a surge speed of 1.0 m/s, a sway speed of 0.5 m/s, a Y-axis maximum of 10 meters, and a sinusoidal period of 15 seconds."
+

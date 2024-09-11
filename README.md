@@ -42,7 +42,9 @@ ros2 run bluerov_llm chat "I want the system to follow a path with a surge speed
 
 # Getting Help
 If you have any questions about using or contributing to this program, please ask on our discussion board!
+
 ## License
+This project is issued under the MIT license.
 
 
 

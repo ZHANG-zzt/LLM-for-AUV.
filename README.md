@@ -39,8 +39,10 @@ or it means expressing instructions in a more human-like manner.
 ```python
 ros2 run bluerov_llm chat "I want the system to follow a path with a surge speed of 1.0 m/s, a sway speed of 0.5 m/s, a Y-axis maximum of 10 meters, and a sinusoidal period of 15 seconds."
 ```
-# Getting Help
 
+# Getting Help
+If you have any questions about using or contributing to this program, please ask on our discussion board!
+## License
 
 
 

@@ -50,9 +50,13 @@ This project is issued under the MIT license.
 
 # Low Level Controller (NMPC)
 The simulation model we developed is based on bluerov2, utilizing the NMPC algorithm as the underlying controller.
+The execution of this NMPC controller relies on the simulation platform on which we designed Bluerov2.
 ## Prerequisites
 * Install [acados](https://docs.acados.org/)
+* Install [Bluerov2_sim]
 ## How to use
+
+* Follow the steps in [Bluerov2_sim] to start the gazebo simulation platform.
 
 
 

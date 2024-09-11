@@ -25,9 +25,9 @@ source /opt/ros/humble/setup.bash
 
 
 * case1: Speed Setting Instruction
+The current speed of the AUV can be obtained by self-perception in ROS2
 ```python
-ros2 run bluerov_llm chat "Change the MPC weight matrix to [20,20,20,0.1,0.1,0.1]."
-ros2 run bluerov_llm chat "Based on the previous instruction, Increase the NMPC weight matrix, first state to 30."
+ros2 run bluerov_llm chat "Move the bluerov2 faster 0.2m/s".
 ```
 
 * case2: Navigation instruction

@@ -4,7 +4,6 @@ We introduced Large Language Model（LLM） to realize the human-robot interacti
 # Contribution
 Our work is to establish a ROS2-based AUV interactive system. By leveraging LLM's understanding of human instructions, we provide high-level decisions to the low-level controllers, thereby reducing the complexity of sea trials.
 
-
 # Prerequisites
 * Install [ROS2 Humble](https://docs.ros.org/en/humble/)
 * Ubuntu 22.04
@@ -22,14 +21,11 @@ colcon build --packages-select bluerov_llm
 source install/setup.bash
 source /opt/ros/humble/setup.bash
 ```
-
-
 * case1: Speed Setting Instruction
 The current speed of the AUV can be obtained by self-perception in ROS2
 ```python
 ros2 run bluerov_llm chat "Move the bluerov2 faster 0.2m/s".
 ```
-
 * case2: Navigation instruction
 ```python
 ros2 run bluerov_llm chat "Change the MPC weight matrix to [20,20,20,0.1,0.1,0.1]."

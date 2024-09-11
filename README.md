@@ -48,6 +48,12 @@ If you have any questions about using or contributing to this program, please as
 ## License
 This project is issued under the MIT license.
 
+# Low Level Controller (NMPC)
+The simulation model we developed is based on bluerov2, utilizing the NMPC algorithm as the underlying controller.
+## Prerequisites
+* Install [acados](https://docs.acados.org/)
+## How to use
+
 
 
 

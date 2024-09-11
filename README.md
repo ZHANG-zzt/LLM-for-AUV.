@@ -1,6 +1,7 @@
 
 We introduced Large Language Model（LLM） to realize the human-robot interaction system with autonomous underwater vehicles (AUV) in ROS2
-
+[erine](images/images.jpeg)
+[baidu](images/images.jpeg)
 # Contribution
 Our work is to establish a ROS2-based AUV interactive system. By leveraging LLM's understanding of human instructions, we provide high-level decisions to the low-level controllers, thereby reducing the complexity of sea trials.
 * High Level Control Decision Making - from LLM

@@ -20,8 +20,8 @@ from rclpy.executors import MultiThreadedExecutor
 average_speed = 0
 # Enter the Qianfan API key. 
 # At this point, the user needs to create an account on the official Baidu website to obtain the API key.
-os.environ["QIANFAN_AK"] = "ippcepJLikXn9ndiQYRn74gS"
-os.environ["QIANFAN_SK"] = "zhXzNYRzGIuZM7ZkvJz8CTZXujDQISGc"
+os.environ["QIANFAN_AK"] = "xxxxxx"
+os.environ["QIANFAN_SK"] = "xxxxxx"
 
 # Set the reference prompt function
 
@@ -78,7 +78,7 @@ def set_trajectory(X_speed, Z_speed, Y_max, period):
         }
     }
 
-# 定义 prompt
+# Define prompt
 # prompt: "Rotate 60 degree in clockwise direction at 10 degrees per second and make pizza."
 # returns: {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}
 

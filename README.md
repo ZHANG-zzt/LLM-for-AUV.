@@ -1,9 +1,10 @@
 We introduced LLM to realize the human-robot interaction system with autonomous underwater vehicles (AUV)
 # Tools
 <p align="left">
-  <img src="image/images.jpeg" alt="Additional Image 1" width="100" height="80"/>
-  <img src="image/images.png" alt="Additional Image 2" width="100" height="80"/>
+  <img src="image/images.jpeg" alt="Additional Image 1" width="100" height="100"/>
+  <img src="image/images.png" alt="Additional Image 2" width="100" height="100"/>
 </p>
+
 # Contribution
 Our work is to establish a ROS2-based AUV interactive system. By leveraging LLM's understanding of human instructions, we provide high-level decisions to the low-level controllers, thereby reducing the complexity of sea trials.
 * High Level Control Decision Making - from LLM

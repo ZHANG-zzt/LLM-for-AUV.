@@ -1,8 +1,9 @@
 We introduced LLM to realize the human-robot interaction system with autonomous underwater vehicles (AUV)
 
 <p align="left">
-  <img src="image/images.jpeg" alt="Additional Image 1" width="100" height="100"/>
-  <img src="image/images.png" alt="Additional Image 2" width="150" height="100"/>
+<!--   <img src="image/images.jpeg" alt="Additional Image 1" width="100" height="100"/>
+  <img src="image/images.png" alt="Additional Image 2" width="150" height="100"/> -->
+  <img src="image/deepseek.png" alt="Additional Image 1" width="100" height="100"/>
 </p>
 
 # Contribution

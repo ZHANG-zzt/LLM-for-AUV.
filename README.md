@@ -4,7 +4,7 @@ We introduced LLM to realize the human-robot interaction system with autonomous 
 <!--   <img src="image/images.jpeg" alt="Additional Image 1" width="100" height="100"/>
   <img src="image/images.png" alt="Additional Image 2" width="150" height="100"/> -->
   <img src="image/deepseek.png" alt="Additional Image 1" width="200" height="150"/>
-  <img src="image/ros.png" alt="Additional Image 1" width="200" height="100"/>
+  <img src="image/ros.png" alt="Additional Image 1" width="180" height="120"/>
 </p>
 
 # Contribution

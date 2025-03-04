@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "chat = bluerov_llm.chat:main"
+            "chat = bluerov_llm.chat:main",
+            "deep_open = bluerov_llm.deep_open:main",
         ],
     },
 )
